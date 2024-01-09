@@ -1,3 +1,5 @@
+![Repo Icon](./icon.png)
+
 # Pix-Jinx: Make Sense of Your Media Mess
 
 Welcome to Pix-Jinx, your new best friend in managing and organizing your ever-growing collection of images and videos. This nifty tool, built with Python and PyQt5, is designed to help you bring order to your media chaos. It's powerful, flexible, and user-friendly, making it a breeze to use whether you're a tech newbie or a seasoned pro.
