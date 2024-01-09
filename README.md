@@ -64,7 +64,7 @@ Now you're all set to run Pix-Jinx and start organizing!
 
 ## Contributing
 
-Got an idea to make Pix-Jinx even better? We'd love to hear it! Feel free to submit a Pull Request or open an Issue.
+Got an idea to make Pix-Jinx even better? I'd love to hear it! Feel free to submit a Pull Request or open an Issue.
 
 ## License
 
